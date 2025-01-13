@@ -14,7 +14,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
    </p>
 
    ---
-   ### ❇️ Tech Stacks
+   ### 💻 Tech Stacks
 
   <img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/>
   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/fa9a878c-bae3-4c71-877c-07a9e68fd2a3"/>
@@ -28,6 +28,6 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 
 </br></br></br></br>
 
-### 📊 Stats
+### 📈 Stats
 
 ![ayerfph's Stats](https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=gruvbox)
