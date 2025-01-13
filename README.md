@@ -1,4 +1,4 @@
-<img align="left" alt="Notion" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b874e484-949f-49d3-bafd-3c6f7bf6cbd9"/> <h1>Hi! I'm @ayerfph!!</h1>
+<img align="left" alt="Notion" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b874e484-949f-49d3-bafd-3c6f7bf6cbd9"/>
 
 **`Computer Science Student`**
 
