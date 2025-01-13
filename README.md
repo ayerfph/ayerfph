@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# ✈️ Jet
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Aspiring to be Web/App Developer (Still noob lol XD)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a Computer Science Student (Graduating) and want to contribute someday to local communities together with fellow developer in the Philippines. If you want to collab with me in projects, prototypes, contents, and more, you can drop at my email here "[Gmail][jettayam01122@gmail.com]" to more than 500k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
