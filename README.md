@@ -2,7 +2,7 @@
 
 **`Aspiring to be Web/App Developer (Still noob lol XD)`**
 
-I'm a Computer Science Student (Graduating) and want to contribute someday to local communities together with fellow developer in the Philippines. If you want to collab with me in projects, prototypes, contents, and more, you can drop at my email here "[Gmail][jettayam01122@gmail.com]" to more than 500k subscribers.
+I'm a Computer Science Student (Graduating) and want to contribute someday to local communities together with fellow developer in the Philippines. If you want to collab with me in projects, prototypes, contents, and more, you can drop at my email here "[Gmail][gmail]" to more than 500k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
