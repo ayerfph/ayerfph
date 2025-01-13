@@ -20,9 +20,14 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/fa9a878c-bae3-4c71-877c-07a9e68fd2a3"/>
   <img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f68551e0-9f4e-4aa9-8644-0b159e9abce0"/>
   <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6340b4e7-4037-4a3b-bc92-0499e75da3a9"/>
-  
   <img align="left" alt="css" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/cfdcf7d1-0f28-4ad0-b29f-ba04f17b1537"/>
   <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c7cfa0a1-aaba-444e-9e8d-3d796c41dda7"/>
   <img align="left" alt="Unity 3D" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/67611c9a-5630-4e14-bb73-e4db6e7c9833"/>
   <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/>
   <img align="left" alt="Flutterflow" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a1d815a4-5c28-4fb9-8a8a-de75f79343e0"/>
+
+</br></br></br></br>
+
+### 📊 Stats
+
+![ayerfph's Stats](https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=gruvbox)
