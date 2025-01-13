@@ -34,7 +34,6 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 
 ![ayerfph's Stats](https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=gruvbox)
 
-</br>
 
 ### 🪪 Follow me on:
 </br>
