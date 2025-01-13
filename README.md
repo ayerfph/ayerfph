@@ -1,31 +1,16 @@
-## ✈️ Jet
+# 🏄‍♂️ Forrest Knight
 
-<!--
-**ayerfph/ayerfph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-Here are some ideas to get you started:
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<mark>Aspiring to be Full Stack Web / App Developer (I'm stilll newbie lols XD) </mark>
-
-Hi! I'm Jet, a Computer Science Student (Graduating!!!!) who want to be one of the great developer and will contribute to the young developer in the Philippines to inspire them and encourage them to do on their field. After I joined in my first hackathon event, I was motivated to learn more in front-end (I pursuing UI/UX Developepr first!!!), I will continue do what I enjoyed and what I feel comfortable. If you want to collab with me for some projects, prototypes, and others you can reach me in " <a href="jettayam01122@gmail.com" target="_blank" style="text-decoration: none;">Gmail</a> ". I also wanna thank " <a href="https://www.youtube.com/watch?v=9A8sQZDRn5o" target="_blank" style="text-decoration: none;">ForrestKnight</a> " for his tutorial because I learn a lot in making my profile better in GitHub.
-</br></br>
-
-If you're interested in my socials, viewed my memories here at instagram " <a href="https://www.instagram.com/ayerfph/" target="_blank" style="text-decoration: none;">@ayerfph</a> ".
-</br></br>
-
-🧑‍💼 Check my professional profile
-
-<p align="left">  
-  <a href="https://www.linkedin.com/in/john-emmanuel-tayam-401b10300/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/55a09ef0-b621-43cc-86d9-1f1cc0fdd899"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
