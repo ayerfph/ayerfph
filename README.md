@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 **'Aspiring to be Full Stack Web / App Developer (I'm stilll newbie lols XD)' **
 
-Hi! I'm Jet, a Computer Science Student (Graduating!!!!) who want to be one of the great developer and will contribute to the young developer in the Philippines to inspire them and encourage them to do on their field. After I joined in my first hackathon event, I was motivated to learn more in front-end (I pursuing UI/UX Developepr first!!!), I will continue do what I enjoyed and what I feel comfortable. If you want to collab with me for some projects, prototypes, and others you can reach me in "[Email][[gmail](https://mail.google.com/mail/u/0/#inbox)]" or " [John Emmanuel Tayam][linkedin]. I also wanna thank " [ForrestKnight][youtube] " for his tutorial because I learn a lot in making my profile better in GitHub.
+Hi! I'm Jet, a Computer Science Student (Graduating!!!!) who want to be one of the great developer and will contribute to the young developer in the Philippines to inspire them and encourage them to do on their field. After I joined in my first hackathon event, I was motivated to learn more in front-end (I pursuing UI/UX Developepr first!!!), I will continue do what I enjoyed and what I feel comfortable. If you want to collab with me for some projects, prototypes, and others you can reach me in "[[gmail](https://mail.google.com/mail/u/0/#inbox)]". I also wanna thank " [[ForrestKnight](https://www.youtube.com/watch?v=9A8sQZDRn5o)] " for his tutorial because I learn a lot in making my profile better in GitHub.
+</br></br>
 
-If you're interested in my socials, viewed my memories here at instagram " [@ayerfph][instagram] ".
+If you're interested in my socials, viewed my memories here at instagram " [[gmail](https://www.instagram.com/ayerfph/)] ".
 
 ---
 
