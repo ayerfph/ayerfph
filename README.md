@@ -30,5 +30,14 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 </br></br></br></br>
 
 ### 📈 Stats
+</br>
 
 ![ayerfph's Stats](https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=gruvbox)
+
+</br></br>
+
+### 🪪 Follow me on:
+</br>
+
+<a href="https://www.linkedin.com/in/john-emmanuel-tayam-401b10300/" target="_blank"><img align="left" alt="linkedIn" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/79f81980-e99a-4e49-8b88-3ada45eadcac"/></a>
+<a href="https://www.instagram.com/ayerfph/" target="_blank"><img align="left" alt="IG" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c92ca608-d6cb-4a54-a6f4-b3377be570c4"/></a>
