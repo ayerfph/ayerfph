@@ -26,6 +26,6 @@ If you're interested in my socials, viewed my memories here at instagram " <a hr
 🧑‍💼 Check my professional profile
 
 <p align="left">  
-  <a href="https://www.linkedin.com/in/john-emmanuel-tayam-401b10300/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/john-emmanuel-tayam-401b10300/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/55a09ef0-b621-43cc-86d9-1f1cc0fdd899"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
