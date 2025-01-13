@@ -27,7 +27,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
   <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/>
   <img align="left" alt="Flutterflow" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a1d815a4-5c28-4fb9-8a8a-de75f79343e0"/>
 
-</br></br></br></br>
+</br></br></br>
 
 ### 📈 Stats
 </br>
