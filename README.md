@@ -14,7 +14,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
    </p>
 
    ---
-   ### 💻 Tech Stacks
+   ### 💻 Programming Language and Tech Stacks
 
   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/79afd7f7-9696-41b7-acd1-bc880812a1b1"/>
   <img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a9b95dc8-3995-4e46-9163-f906a81d56a8"/>
