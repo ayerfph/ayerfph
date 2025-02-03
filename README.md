@@ -29,9 +29,9 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
    <img align="left" alt="Office" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ca165edf-cab2-4604-b6ce-8f6b3b090537"/>
    <img align="left" alt="vsCode" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ffaeb911-9ec5-445f-8d13-4f9ef4089c67"/>
    <img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/>
-   <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f6c03e19-019e-4cbd-83b7-31d37458b576"/>
+   <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f6c03e19-019e-4cbd-83b7-31d37458b576"/></br></br></br>
    <img align="left" alt="Unity 3D" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e700edd6-b6aa-4f7f-8ac3-697e72346944"/>
-   <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/></br></br></br>
+   <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/>
    <img align="left" alt="Flutterflow" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a1d815a4-5c28-4fb9-8a8a-de75f79343e0"/>
    <img align="left" alt="googleSite" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6438b6b6-38df-47f7-930a-cb12f80b97de"/></br></br></br>
 
