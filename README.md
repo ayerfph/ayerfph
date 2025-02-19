@@ -14,6 +14,13 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
    </p>
 
    ---
+
+   ### 📱 Badge
+   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0a7210ef-4e55-416b-b14a-b54764d53d47"/>
+   
+   </br></br></br></br></br></br>
+
+   ---
    
    ### 🌐 Front-end Web
    </br>
