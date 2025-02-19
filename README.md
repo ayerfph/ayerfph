@@ -21,7 +21,6 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
    <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/795687e4-95e4-4138-aa06-0e48a9c9473a"/>
    <img align="left" alt="css" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/d53a69fc-e55c-4e81-bbc7-c541af3d9e96"/>
    <img align="left" alt="js" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e5c51961-4408-482f-bd3e-5f9a1ad182ac"/>
-   <img align="left" alt="sql" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/74739573-b04b-49d5-b2b9-8712e69b25a1"/>
    <img align="left" alt="react" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/84ca102f-0cc9-46aa-ba50-d8f03d970693"/>
    <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f6c03e19-019e-4cbd-83b7-31d37458b576"/>
    <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/></br></br></br>
