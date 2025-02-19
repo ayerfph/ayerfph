@@ -66,7 +66,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
        srcset="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
-     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
+     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
    </picture>
 </a> 
 
@@ -84,7 +84,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
      />
-     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
    </picture>
 </a>
 
