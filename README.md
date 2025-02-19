@@ -4,7 +4,7 @@
 
 **`Computer Science Student`**
 
-I'm CS Student currently working on my UI/UX Design carreer. I participate in InnOlympics Hackathon 2025, gain lots of experience and learn new things in my field. I also inspired to the organization on the events and I want to contribute to filipino developers in the future as welll by supporting programs that will help them to inspire and do great things in the field of Computer Studies. If you want to collab with me in making projects, prototypes or contents, you can email me at <a href="jettayam01122@gmail.com">Gmail</a>.
+I'm CS Student currently working on my UI/UX Design carreer. I participate in InnOlympics Hackathon 2025, gain lots of experience and learn new things in my field. I also inspired to the organization on the events and I want to contribute to filipino developers in the future as welll by supporting programs that will help them to inspire and do great things in the field of Computer Studies. If you want to collab with me in making projects, prototypes or contents, you can email me at <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jettayam01122@gmail.com">Gmail</a>.
 
    <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
