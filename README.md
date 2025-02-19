@@ -15,7 +15,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 
    ---
    
-   ### 💻 Front-end Web
+   ### 🌐 Front-end Web
    </br>
   
    <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/795687e4-95e4-4138-aa06-0e48a9c9473a"/>
@@ -27,7 +27,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 
 ---
 
-   ### 💻 App Development
+   ### 📱 App Development
    </br>
   
    <img align="left" alt="c#" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/189c0bc1-d45e-425c-9367-02d40021d949"/>
