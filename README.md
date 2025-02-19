@@ -15,24 +15,39 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 
    ---
    
-   ### 💻 Programming Language and Tech Stacks
+   ### 💻 Front-end Web
    </br>
   
-   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/79afd7f7-9696-41b7-acd1-bc880812a1b1"/>
-   <img align="left" alt="c++" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/a9b95dc8-3995-4e46-9163-f906a81d56a8"/>
-   <img align="left" alt="c#" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/189c0bc1-d45e-425c-9367-02d40021d949"/>
    <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/795687e4-95e4-4138-aa06-0e48a9c9473a"/>
    <img align="left" alt="css" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/d53a69fc-e55c-4e81-bbc7-c541af3d9e96"/>
    <img align="left" alt="js" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e5c51961-4408-482f-bd3e-5f9a1ad182ac"/>
    <img align="left" alt="sql" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/74739573-b04b-49d5-b2b9-8712e69b25a1"/>
    <img align="left" alt="react" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/84ca102f-0cc9-46aa-ba50-d8f03d970693"/>
-   <img align="left" alt="Office" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ca165edf-cab2-4604-b6ce-8f6b3b090537"/>
+   <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f6c03e19-019e-4cbd-83b7-31d37458b576"/>
+   <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/></br></br></br>
+
+---
+
+   ### 💻 App Development
+   </br>
+  
+   <img align="left" alt="c#" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/189c0bc1-d45e-425c-9367-02d40021d949"/>
    <img align="left" alt="vsCode" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ffaeb911-9ec5-445f-8d13-4f9ef4089c67"/>
-   <img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/></br></br></br>
    <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f6c03e19-019e-4cbd-83b7-31d37458b576"/>
    <img align="left" alt="Unity 3D" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/e700edd6-b6aa-4f7f-8ac3-697e72346944"/>
    <img align="left" alt="Canva" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/550b456f-0029-4178-8875-db0c4e7f6f85"/>
-   <img align="left" alt="Flutterflow" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a1d815a4-5c28-4fb9-8a8a-de75f79343e0"/>
+   <img align="left" alt="Flutterflow" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/a1d815a4-5c28-4fb9-8a8a-de75f79343e0"/></br></br></br>
+   
+---
+
+   ### 💻 Other Stacks
+   </br>
+  
+   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/79afd7f7-9696-41b7-acd1-bc880812a1b1"/>
+   <img align="left" alt="c++" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/a9b95dc8-3995-4e46-9163-f906a81d56a8"/>
+   <img align="left" alt="sql" width="100px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/74739573-b04b-49d5-b2b9-8712e69b25a1"/>
+   <img align="left" alt="Office" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ca165edf-cab2-4604-b6ce-8f6b3b090537"/>
+   <img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/>
    <img align="left" alt="googleSite" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6438b6b6-38df-47f7-930a-cb12f80b97de"/></br></br></br>
 
 ---
@@ -41,7 +56,38 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 ### 📈 Stats
 </br>
 
-![ayerfph's Stats](https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=gruvbox)
+<a href="https://github.com/ayerfph/github-readme-stats">
+   <picture>
+     <source
+       srcset="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320"
+       media="(prefers-color-scheme: dark)"
+     />
+     <source
+       srcset="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
+       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+     />
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
+   </picture>
+</a> 
+
+<span> 
+   &nbsp;
+</span>
+
+<a href="https://github.com/ayerfph/convoychat">
+   <picture>
+     <source
+       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ayerfph&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320"
+       media="(prefers-color-scheme: dark)"
+     />
+     <source
+       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
+       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+     />
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+   </picture>
+</a>
+
 
 </br>
 
