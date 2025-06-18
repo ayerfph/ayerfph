@@ -89,7 +89,7 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
      />
      <source
        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+       media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
      />
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
    </picture>
