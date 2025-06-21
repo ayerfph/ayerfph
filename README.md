@@ -4,7 +4,7 @@
 
 **`Computer Science Student`**
 
-I'm CS Student currently working on my UI/UX Design carreer. I participate in InnOlympics Hackathon 2025, gain lots of experience and learn new things in my field. I also inspired to the organization on the events and I want to contribute to filipino developers in the future as welll by supporting programs that will help them to inspire and do great things in the field of Computer Studies. If you want to collab with me in making projects, prototypes or contents, you can email me at <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jettayam01122@gmail.com">Gmail</a>.
+I am a Computer Science graduate currently sharpening my skills for the professional tech industry. I'm actively learning modern frameworks and technologies, with a focus on React for frontend development and Django for both frontend/backend systems. My goal is not only to build impactful solutions but also to contribute to the growth of the Filipino tech community by sharing my journey and experiences to inspire fellow aspiring developers.
 
    <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
@@ -15,14 +15,14 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
 
    ---
 
-   ### 📱 Badge
+   ### 🏅 Badge
    <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0a7210ef-4e55-416b-b14a-b54764d53d47"/>
    <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/1c5ba4a4-c5c1-415b-8853-f0f105415298"/>
    <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7c193ddf-da61-4342-b4f9-9629b7c246da"/>
    
    </br></br></br></br></br></br>
 
-   ---
+   <!-- ---
    
    ### 🌐 Web development
    </br>
@@ -55,12 +55,12 @@ I'm CS Student currently working on my UI/UX Design carreer. I participate in In
    <img align="left" alt="c++" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/a9b95dc8-3995-4e46-9163-f906a81d56a8"/>
    <img align="left" alt="Office" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ca165edf-cab2-4604-b6ce-8f6b3b090537"/>
    <img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/>
-   <img align="left" alt="googleSite" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6438b6b6-38df-47f7-930a-cb12f80b97de"/></br></br></br>
+   <img align="left" alt="googleSite" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6438b6b6-38df-47f7-930a-cb12f80b97de"/></br></br></br> -->
 
 ---
 
 
-### 📈 Stats
+### 📈 Check-out My Progress So Far...
 </br>
 
 <a href="https://github.com/ayerfph/github-readme-stats">
