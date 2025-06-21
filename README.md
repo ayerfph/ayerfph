@@ -13,6 +13,8 @@ I am a Computer Science graduate currently sharpening my skills for the professi
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ayerfph?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+   </br>
+   
    ---
 
    ### 🏅 Badge
@@ -20,11 +22,11 @@ I am a Computer Science graduate currently sharpening my skills for the professi
    <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/1c5ba4a4-c5c1-415b-8853-f0f105415298"/>
    <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7c193ddf-da61-4342-b4f9-9629b7c246da"/>
    
-   </br></br></br></br></br></br>
+   </br></br></br></br></br></br></br></br>
 
-   <!-- ---
+   ---
    
-   ### 🌐 Web development
+   <!--### 🌐 Web development
    </br>
   
    <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/795687e4-95e4-4138-aa06-0e48a9c9473a"/>
@@ -55,9 +57,9 @@ I am a Computer Science graduate currently sharpening my skills for the professi
    <img align="left" alt="c++" width="50px" style="padding-right:10px; margin-bottom:10px" src="https://github.com/user-attachments/assets/a9b95dc8-3995-4e46-9163-f906a81d56a8"/>
    <img align="left" alt="Office" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ca165edf-cab2-4604-b6ce-8f6b3b090537"/>
    <img align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/>
-   <img align="left" alt="googleSite" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6438b6b6-38df-47f7-930a-cb12f80b97de"/></br></br></br> -->
+   <img align="left" alt="googleSite" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/6438b6b6-38df-47f7-930a-cb12f80b97de"/></br></br></br> 
 
----
+--- -->
 
 
 ### 📈 Check-out My Progress So Far...
@@ -94,3 +96,5 @@ I am a Computer Science graduate currently sharpening my skills for the professi
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
    </picture>
 </a>
+
+</br>
