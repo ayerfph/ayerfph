@@ -62,7 +62,7 @@ I am a Computer Science graduate currently sharpening my skills for the professi
 --- -->
 
 
-### 📈 Check-out My Progress So Far...
+### 📈 Check-out My Progress So Far
 </br>
 
 <a href="https://github.com/ayerfph/github-readme-stats">
