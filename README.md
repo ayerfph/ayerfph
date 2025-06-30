@@ -18,9 +18,11 @@ I am a Computer Science graduate currently sharpening my skills for the professi
    ---
 
    ### 🏅 Badge
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0a7210ef-4e55-416b-b14a-b54764d53d47"/>
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/1c5ba4a4-c5c1-415b-8853-f0f105415298"/>
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/7c193ddf-da61-4342-b4f9-9629b7c246da"/>
+   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/773ebbd0-0dd1-4888-8df6-6ce2f6f3915e"/>
+   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/5a336ea7-b84a-4220-af64-9d72930136cc"/>
+   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/cd17ec6a-7262-495c-96a4-90c36b171b96"/>
+   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/39e2c801-1539-4d3e-ba41-b61765057eab"/>
+   
    
    </br></br></br></br></br></br></br></br>
 
