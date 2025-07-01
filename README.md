@@ -26,6 +26,7 @@ I am a Computer Science graduate currently sharpening my skills for the professi
    
    </br></br></br></br></br></br></br></br>
 
+   ---
 
 ### 📈 Check-out My Progress So Far
 </br>
