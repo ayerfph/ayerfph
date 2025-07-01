@@ -85,7 +85,7 @@ I am a Computer Science graduate currently sharpening my skills for the professi
    &nbsp;
 </span>
 
-<a href="https://github.com/ayerfph/convoychat">
+
    <picture>
      <source
        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ayerfph&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320"
@@ -97,6 +97,6 @@ I am a Computer Science graduate currently sharpening my skills for the professi
      />
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
    </picture>
-</a>
+
 
 </br>
