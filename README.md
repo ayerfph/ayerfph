@@ -95,7 +95,7 @@ I am a Computer Science graduate currently sharpening my skills for the professi
        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
        media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
      />
-     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
    </picture>
 </a>
 
