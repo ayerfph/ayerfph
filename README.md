@@ -4,7 +4,7 @@
 
 **`Computer Science Student`**
 
-I am a Computer Science graduate currently sharpening my skills for the professional tech industry. I'm actively learning modern frameworks and technologies, with a focus on React for frontend development and Django for both frontend/backend systems. My goal is not only to build impactful solutions but also to contribute to the growth of the Filipino tech community by sharing my journey and experiences to inspire fellow aspiring developers.
+I am a Computer Science graduate who loves exploring new technologies. I enjoy playing video games, writing code, understanding complex concepts, and discovering new features in games, applications, websites, and devices. Currently, I'm advancing my knowledge in Python and SQL to pursue a career in Data Engineering. I take my time with learning, but I always trust the process.
 
    <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
