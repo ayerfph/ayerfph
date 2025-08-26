@@ -17,17 +17,6 @@ I am a Computer Science graduate who loves exploring new technologies. I enjoy p
    
    ---
 
-   ### 🏅 Badge
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/773ebbd0-0dd1-4888-8df6-6ce2f6f3915e"/>
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/5a336ea7-b84a-4220-af64-9d72930136cc"/>
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/cd17ec6a-7262-495c-96a4-90c36b171b96"/>
-   <img align="left" alt="HTML" width="150px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/39e2c801-1539-4d3e-ba41-b61765057eab"/>
-   
-   
-   </br></br></br></br></br></br></br></br>
-
-   ---
-
 ### 📈 Check-out My Progress So Far
 </br>
 
