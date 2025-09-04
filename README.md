@@ -48,5 +48,5 @@ I am a Computer Science graduate who loves exploring new technologies. I enjoy p
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
    </picture>
 
-
+   
 </br>
