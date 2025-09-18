@@ -20,17 +20,7 @@ I am a Computer Science graduate who loves exploring new technologies. I enjoy p
 ### 📈 Check-out My Progress So Far
 </br>
 
-<picture>
-     <source
-       srcset="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320"
-       media="(prefers-color-scheme: dark)"
-     />
-     <source
-       srcset="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&layout=compact&langs_count=8&card_width=320"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-     />
-     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ayerfph=anuraghazra&show_icons=true&theme=transparent)
 
 <span> 
    &nbsp;
