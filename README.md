@@ -14,5 +14,3 @@ I am a Computer Science graduate who loves exploring new technologies. I enjoy p
    </p>
 
    </br>
-   
-   ---
