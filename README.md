@@ -14,3 +14,8 @@ I am a Computer Science graduate who loves exploring new technologies. I enjoy p
    </p>
 
    </br>
+
+---
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayerfph&layout=compact&langs_count=20)
