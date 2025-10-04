@@ -4,7 +4,7 @@
 
 **`Aspiring Data Engineer`**
 
-I am a Computer Science graduate who loves exploring new technologies. I enjoy playing video games, writing code, understanding complex concepts, and discovering new features in games, applications, websites, and devices. Currently, I'm advancing my knowledge in Python and SQL to pursue a career in Data Engineering. I take my time with learning, and I always trust the process.
+I’m a Computer Science graduate with a passion for exploring new technologies. I enjoy coding, playing video games, learning new concepts, and discovering fresh interests. Lately, I’ve been diving deeper into the world of data, which has helped me develop consistency and discipline in my learning journey. During my free time, I love reading Arthur Conan Doyle’s Sherlock Holmes stories and playing Pokémon games on the Nintendo Switch (thinking about getting a Switch Lite soon!).
 
    <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
