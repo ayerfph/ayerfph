@@ -4,7 +4,7 @@
 
 **`Aspiring Data Engineer`**
 
-I’m a Computer Science graduate with a passion for exploring new technologies. I enjoy coding, playing video games, learning new concepts, and discovering fresh interests. Lately, I’ve been diving deeper into the world of data, which has helped me develop consistency and discipline in my learning journey. During my free time, I love reading Arthur Conan Doyle’s Sherlock Holmes stories.
+I’m a Computer Science graduate and tech-savvy. I enjoy coding, playing video games, learning new concepts, and discovering fresh interests. Lately, I’ve been diving deeper into the world of data, which has helped me develop consistency and discipline in my learning journey. During my free time, I enjoyed reading Arthur Conan Doyle’s Sherlock Holmes stories.
 
    <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
