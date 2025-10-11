@@ -44,3 +44,4 @@ I’m a Computer Science graduate and tech-savvy. I enjoy coding, playing video 
      />
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ayerfph&show_icons=true" />
    </picture>
+ 
