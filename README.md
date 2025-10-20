@@ -14,7 +14,7 @@ I’m a Computer Science graduate and tech-savvy. I enjoy coding, playing video 
    </p>
 
     -->
-</br>
+</br></br>
 
 ---
 
