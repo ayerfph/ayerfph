@@ -6,14 +6,14 @@
 
 I’m a Computer Science graduate and tech-savvy. I enjoy coding, playing video games, learning new concepts, and discovering fresh interests. Lately, I’ve been diving deeper into the world of data, which has helped me develop consistency and discipline in my learning journey. During my free time, I enjoyed reading and watching detective novels / dramas. 
 
-  <!--<p align="left">
+ <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ayerfph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ayerfph?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ayerfph?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-    -->
+
 </br></br>
 
 ---
