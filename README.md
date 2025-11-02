@@ -4,7 +4,9 @@
 
 **`Aspiring Data Engineer`**
 
-I’m a Computer Science graduate and tech-savvy. I enjoy coding, playing video games, learning new concepts, and discovering fresh interests. Lately, I’ve been diving deeper into the world of data, which has helped me develop consistency and discipline in my learning journey. During my free time, I enjoyed reading and watching detective novels / dramas. 
+I’m a data enthusiast passionate about uncovering insights and solving problems through data. Currently, I’m honing my skills as a Data Analyst while exploring Data Engineering concepts and applications to build a stronger foundation in the end-to-end data lifecycle.
+
+This is my usual routine — Eat. Learn. Code. Read. Repeat.
 
  <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
