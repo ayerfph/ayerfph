@@ -6,7 +6,7 @@
 
 I’m a data enthusiast passionate about uncovering insights and solving problems through data. Currently, I’m honing my skills as a Data Analyst while exploring Data Engineering concepts and applications to build a stronger foundation in the end-to-end data lifecycle.
 
-This is my usual routine — Eat. Learn. Code. Read. Repeat.
+This is my usual routine — Eat. Learn. Code. Read. Repeat...
 
  <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
