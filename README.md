@@ -1,4 +1,4 @@
-<img align="left" alt="Notion" width="250px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b874e484-949f-49d3-bafd-3c6f7bf6cbd9"/>
+<img align="left" alt="Notion" width="300px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/b874e484-949f-49d3-bafd-3c6f7bf6cbd9"/>
 
 <h3>@ayerfph</h3>
 
@@ -13,6 +13,12 @@ This is my usual routine — Eat. Learn. Code. Read. Repeat...
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ayerfph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ayerfph?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ayerfph?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      </br>
+      <div style="margin-right:50px">
+       <a href="" target="_blank"><img align="left" alt="LinkedIn" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/55a09ef0-b621-43cc-86d9-1f1cc0fdd899"/></a>
+       <a href="" target="_blank"><img align="left" alt="Notion" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/></a>
+       <a href="" target="_blank"><img align="left" alt="Instagram" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/c92ca608-d6cb-4a54-a6f4-b3377be570c4"/></a>
+      </div>
    </p>
 
 
