@@ -4,9 +4,8 @@
 
 **`Aspiring Data Engineer`**
 
-I’m a data enthusiast passionate about uncovering insights and solving problems through data. Currently, I’m honing my skills as a Data Analyst while exploring Data Engineering concepts and applications to build a stronger foundation in the end-to-end data lifecycle.
+I’m a data enthusiast passionate about uncovering insights and solving problems through data. Currently, I’m honing my skills as a Data Analyst while exploring Data Engineering concepts and AI technologies to strengthen my foundation and contribute effectively in the business landscape.
 
-This is my usual routine — Eat. Learn. Code. Read. Repeat...
 
  <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
@@ -16,7 +15,7 @@ This is my usual routine — Eat. Learn. Code. Read. Repeat...
       </br>
  </p>
  
-`Press Ctrl / CMD + Mouse Left Click`
+**`Press Ctrl / CMD + Mouse Left Click`**
  
 <div style="margin-right:50px">
   <a href="" target="_blank"><img align="left" alt="LinkedIn" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/55a09ef0-b621-43cc-86d9-1f1cc0fdd899"/></a>
