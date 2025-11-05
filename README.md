@@ -6,9 +6,6 @@
 
 I’m a data enthusiast passionate about uncovering insights and solving problems through data. Currently, I’m honing my skills as a Data Analyst while exploring Data Engineering concepts and AI technologies to strengthen my foundation and contribute effectively in the business landscape.
 
-It's NNN Challenge (No Nothing November Challenge). My goal this month is to keep do work everyday!
-
-
  <p align="left">
       <a href="https://github.com/ayerfph?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ayerfph?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
