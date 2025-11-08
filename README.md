@@ -2,7 +2,7 @@
 
 <h3>@ayerfph</h3>
 
-**`Aspiring Data Engineer`**
+**`Data Enthusiast | Loves To Learn & Build New Things `**
 
 I’m a data enthusiast passionate about uncovering insights and solving problems through data. Currently, I’m honing my skills as a Data Analyst while exploring Data Engineering concepts and AI technologies to strengthen my foundation and contribute effectively in the business landscape.
 
