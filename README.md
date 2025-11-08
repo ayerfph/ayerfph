@@ -17,7 +17,7 @@ I’m a data enthusiast passionate about uncovering insights and solving problem
 **`Press Ctrl / CMD + Mouse Left Click`**
  
 <div style="margin-right:50px">
-  <a href="" target="_blank"><img align="left" alt="LinkedIn" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/55a09ef0-b621-43cc-86d9-1f1cc0fdd899"/></a>
+  <a href="https://www.linkedin.com/in/jettayam" target="_blank"><img align="left" alt="LinkedIn" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/55a09ef0-b621-43cc-86d9-1f1cc0fdd899"/></a>
   <a href="https://like-peony-ea1.notion.site/MY-WORK-LISTS-294dd104e37f8080b62dd947a8993e86" target="_blank"><img align="left" alt="Notion" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/c077d93d-cceb-48aa-9453-7442d5ee97c6"/></a>
   <a href="" target="_blank"><img align="left" alt="Instagram" width="35px" style="padding-right:25px;" src="https://github.com/user-attachments/assets/c92ca608-d6cb-4a54-a6f4-b3377be570c4"/></a>
 </div>
